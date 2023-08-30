@@ -1,6 +1,6 @@
 import React from "react";
 
-function Card({ imageUrl, title, description, index, buttonText, width, height }) {
+function Card({ imageUrl, title, description, index, buttonText, width, height, cssSlide }) {
   return (
     <div className="max-w-[290px]">
       <div className="flex gap-[7px] items-center">
