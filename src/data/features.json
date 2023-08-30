@@ -1,0 +1,28 @@
+{
+  "features": [
+    {
+      "title": "Sube tu información",
+      "description": "Educativa, procesa PDF, MP4, MP3. Crear tu libreria de documentos que alimentaran a tu tutor inteligente.",
+      "imageUrl": "./src/assets/images/icon-todo-list.png",
+      "buttonText": "Empieza aquí",
+      "width": 53,
+      "height": 53
+    },
+    {
+      "title": "Generación de ficha",
+      "description": "Resumen con palabras claves, puntos claves, resumen y capítulos recomendados para un fácil aprendizaje.",
+      "imageUrl": "./src/assets/images/icon-control-panel.png",
+      "buttonText": "Empieza aquí",
+      "width": 54,
+      "height": 48
+    },
+    {
+      "title": "Tutor virtual",
+      "description": "Crea cuestionarios para facilitar el aprendizaje y responde en base al contenido académico generado.",
+      "imageUrl": "./src/assets/images/icon-chatbot.png",
+      "buttonText": "Empieza aquí",
+      "width": 50,
+      "height": 50
+    }
+  ]
+}

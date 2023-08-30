@@ -9,7 +9,7 @@
   }
 
   body {
-    background-color: theme('colors.white2');
+    background-color: theme('colors.white');
     color: theme('colors.black2');
   }
 

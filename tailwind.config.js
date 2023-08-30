@@ -8,7 +8,7 @@ export default {
     extend: {
       lineHeight: {
         title_hero: "48px",
-        paragraph: "1.67",
+        paragraph_feature: "28px",
         stats: "1.42",
       },
       backgroundColor: {
@@ -20,6 +20,7 @@ export default {
         dark_purple: '#4F46E5',
         smooth_purple: '#6366F1',
         light_purple: '#818CF8',
+        very_light_purple: '#E0E7FF',
         yellow: '#FACC15',
       },
       colors: {
@@ -31,6 +32,7 @@ export default {
         dark_purple: '#4F46E5',
         smooth_purple: '#6366F1',
         light_purple: '#818CF8',
+        very_light_purple: '#E0E7FF',
         yellow: '#FACC15',
       }
     },
