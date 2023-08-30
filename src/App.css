@@ -1,3 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
+h1 {
+  background: #4B5563;
+  background: #111827;
+  background: #F9FAFB;
+  background: #4F46E5;
+  background: #818CF8;
+  background: #6366F1;
+  background: #FACC15;
+
+}
