@@ -6,6 +6,11 @@ export default {
   ],
   theme: {
     extend: {
+      lineHeight: {
+        title_hero: "48px",
+        paragraph: "1.67",
+        stats: "1.42",
+      },
       backgroundColor: {
         white2: '#F9FAFB',
         gray: '#4B5563',
