@@ -2,6 +2,7 @@ import React from 'react'
 import Header from '../containers/Header'
 import HeroSection from '../containers/HeroSection'
 import Features from '../containers/Features'
+import Benifits from '../containers/Benifits'
 
 function Home() {
   return (
@@ -10,6 +11,7 @@ function Home() {
       <main>
         <HeroSection/>
         <Features/>
+        <Benifits/>
       </main>
     </>
   )

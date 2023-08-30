@@ -1,0 +1,72 @@
+{
+  "benefits": [
+    {
+      "title": "Sube tu información fácil",
+      "subTitle": "Crea",
+      "description": "Te presentamos la nueva forma de estudiar con resúmenes generados por la IA, cuestionarios lúdicos y asistentes virtuales.",
+      "subBenefits": [
+        {
+          "title": "Fast",
+          "description": "Consistently come up with new ideas and inspiration, while saving time and effort.",
+          "iconUrl": "./src/assets/images/icon-fast.svg"
+        },
+        {
+          "title": "Flexible",
+          "description": "Upload files like PDFs, DOCs, and PPTs to create quizzes and exams.",
+          "iconUrl": "./src/assets/images/icon-flexible.svg"
+        },
+        {
+          "title": "Integrated",
+          "description": "Flashcards in a single click. Quizgecko can even generate entire quizzes from Youtube videos.",
+          "iconUrl": "./src/assets/images/icon-integrated.svg"
+        }
+      ],
+      "imageUrl": "./src/assets/images/image-upload-info.png",
+      "buttonText": "Create a Quiz for Free",
+      "width": 536,
+      "height": 536
+    },
+    {
+      "title": "Publish with ease",
+      "subTitle": "Share & Embed",
+      "description": "Effortlessly share and embed quizzes with your team, students, or use them as study aids – get everyone engaged and enhance learning experiences in just seconds.",
+      "subBenefits": [
+        {
+          "title": "Share",
+          "description": "Share quizzes effortlessly with students or colleagues.",
+          "iconUrl": "./src/assets/images/icon-share.svg"
+        },
+        {
+          "title": "Export",
+          "description": "Download as text, csv and Aiken format for seamless integration into your learning management system or classroom setting.",
+          "iconUrl": "./src/assets/images/icon-export.svg"
+        },
+        {
+          "title": "Embed",
+          "description": "Add quizzes in your own website, LMS or blog. Perfect for lead generation, engaging your users.",
+          "iconUrl": "./src/assets/images/icon-embed.svg"
+        }
+      ],
+      "imageUrl": "./src/assets/images/image-publish-ease.png",
+      "buttonText": "Create a Quiz for Free",
+      "width": 536,
+      "height": 536
+    },
+    {
+      "title": "Measure performance",
+      "subTitle": "Analyze",
+      "description": "Reports and stats to understand how individuals and groups performed. Auto-graded quizzes make marking a thing of the past.",
+      "subBenefits": [
+        {
+          "title": "Auto Grading",
+          "description": "Intelligently evaluates and grades short answer questions, going the extra mile by offering valuable suggestions on how to improve and attain higher scores.",
+          "iconUrl": "./src/assets/images/icon-auto-grading.svg"
+        }
+      ],
+      "imageUrl": "./src/assets/images/image-measure-performance.png",
+      "buttonText": "Create a Quiz for Free",
+      "width": 536,
+      "height": 536
+    }
+  ]
+}
